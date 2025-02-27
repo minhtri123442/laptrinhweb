@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 day là file test merge thuoc master
+=======
+thuộc branch test_conflict
+>>>>>>> test_conflict
